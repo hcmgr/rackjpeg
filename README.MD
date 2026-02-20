@@ -1,6 +1,6 @@
 # rackjpeg
 
-JPEG compression implemented from-scratch in C/C++ (really a C flavoured C++), using opencv4.
+A from-scratch implementation of JPEG compression in C/C++ (really a C flavoured C++), using opencv4.
 
 ## Usage
 [To install `myjpeg`, see [Install](#install) section]
