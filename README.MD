@@ -1,6 +1,6 @@
 # JPEG Compression from scratch
 
-JPEG compression implemented in C++, using opencv4.
+JPEG compression implemented in C/C++ (really a C flavoured C++), using opencv4.
 
 ## Usage
 [To install `myjpeg`, see [Install](#install) section]
